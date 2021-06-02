@@ -1,0 +1,30 @@
+C:\Users\Yamans\Desktop\Visual Studio C#\Yapısal Programlama\Operatörler\bin\Debug\Operatörler.exe.config
+C:\Users\Yamans\Desktop\Visual Studio C#\Yapısal Programlama\Operatörler\bin\Debug\Operatörler.exe
+C:\Users\Yamans\Desktop\Visual Studio C#\Yapısal Programlama\Operatörler\bin\Debug\Operatörler.pdb
+C:\Users\Yamans\Desktop\Visual Studio C#\Yapısal Programlama\Operatörler\obj\Debug\Operatörler.csprojAssemblyReference.cache
+C:\Users\Yamans\Desktop\Visual Studio C#\Yapısal Programlama\Operatörler\obj\Debug\Operatörler.Form1.resources
+C:\Users\Yamans\Desktop\Visual Studio C#\Yapısal Programlama\Operatörler\obj\Debug\Operatörler.Properties.Resources.resources
+C:\Users\Yamans\Desktop\Visual Studio C#\Yapısal Programlama\Operatörler\obj\Debug\Operatörler.csproj.GenerateResource.cache
+C:\Users\Yamans\Desktop\Visual Studio C#\Yapısal Programlama\Operatörler\obj\Debug\Operatörler.csproj.CoreCompileInputs.cache
+C:\Users\Yamans\Desktop\Visual Studio C#\Yapısal Programlama\Operatörler\obj\Debug\Operatörler.exe
+C:\Users\Yamans\Desktop\Visual Studio C#\Yapısal Programlama\Operatörler\obj\Debug\Operatörler.pdb
+C:\Users\Yamans\Desktop\Visual Studio C#\Yapısal Programlama\Operatörlerin Aşırı Yüklenmesi\bin\Debug\Operatörler.exe.config
+C:\Users\Yamans\Desktop\Visual Studio C#\Yapısal Programlama\Operatörlerin Aşırı Yüklenmesi\bin\Debug\Operatörler.exe
+C:\Users\Yamans\Desktop\Visual Studio C#\Yapısal Programlama\Operatörlerin Aşırı Yüklenmesi\bin\Debug\Operatörler.pdb
+C:\Users\Yamans\Desktop\Visual Studio C#\Yapısal Programlama\Operatörlerin Aşırı Yüklenmesi\obj\Debug\Operatörler.csprojAssemblyReference.cache
+C:\Users\Yamans\Desktop\Visual Studio C#\Yapısal Programlama\Operatörlerin Aşırı Yüklenmesi\obj\Debug\Operatörler.Form1.resources
+C:\Users\Yamans\Desktop\Visual Studio C#\Yapısal Programlama\Operatörlerin Aşırı Yüklenmesi\obj\Debug\Operatörler.Properties.Resources.resources
+C:\Users\Yamans\Desktop\Visual Studio C#\Yapısal Programlama\Operatörlerin Aşırı Yüklenmesi\obj\Debug\Operatörler.csproj.GenerateResource.cache
+C:\Users\Yamans\Desktop\Visual Studio C#\Yapısal Programlama\Operatörlerin Aşırı Yüklenmesi\obj\Debug\Operatörler.csproj.CoreCompileInputs.cache
+C:\Users\Yamans\Desktop\Visual Studio C#\Yapısal Programlama\Operatörlerin Aşırı Yüklenmesi\obj\Debug\Operatörler.exe
+C:\Users\Yamans\Desktop\Visual Studio C#\Yapısal Programlama\Operatörlerin Aşırı Yüklenmesi\obj\Debug\Operatörler.pdb
+C:\Users\Yamans\Desktop\Visual Studio C#\Yapısal Programlama\Operator Point\bin\Debug\Operatörler.exe.config
+C:\Users\Yamans\Desktop\Visual Studio C#\Yapısal Programlama\Operator Point\bin\Debug\Operatörler.exe
+C:\Users\Yamans\Desktop\Visual Studio C#\Yapısal Programlama\Operator Point\bin\Debug\Operatörler.pdb
+C:\Users\Yamans\Desktop\Visual Studio C#\Yapısal Programlama\Operator Point\obj\Debug\Operatörler.csprojAssemblyReference.cache
+C:\Users\Yamans\Desktop\Visual Studio C#\Yapısal Programlama\Operator Point\obj\Debug\Operatörler.Form1.resources
+C:\Users\Yamans\Desktop\Visual Studio C#\Yapısal Programlama\Operator Point\obj\Debug\Operatörler.Properties.Resources.resources
+C:\Users\Yamans\Desktop\Visual Studio C#\Yapısal Programlama\Operator Point\obj\Debug\Operatörler.csproj.GenerateResource.cache
+C:\Users\Yamans\Desktop\Visual Studio C#\Yapısal Programlama\Operator Point\obj\Debug\Operatörler.csproj.CoreCompileInputs.cache
+C:\Users\Yamans\Desktop\Visual Studio C#\Yapısal Programlama\Operator Point\obj\Debug\Operatörler.exe
+C:\Users\Yamans\Desktop\Visual Studio C#\Yapısal Programlama\Operator Point\obj\Debug\Operatörler.pdb

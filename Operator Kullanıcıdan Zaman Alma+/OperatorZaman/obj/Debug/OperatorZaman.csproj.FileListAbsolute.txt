@@ -1,0 +1,28 @@
+c:\users\oğuz\documents\visual studio 2013\Projects\OperatorZaman\OperatorZaman\bin\Debug\OperatorZaman.exe.config
+c:\users\oğuz\documents\visual studio 2013\Projects\OperatorZaman\OperatorZaman\bin\Debug\OperatorZaman.exe
+c:\users\oğuz\documents\visual studio 2013\Projects\OperatorZaman\OperatorZaman\bin\Debug\OperatorZaman.pdb
+c:\users\oğuz\documents\visual studio 2013\Projects\OperatorZaman\OperatorZaman\obj\Debug\OperatorZaman.Form1.resources
+c:\users\oğuz\documents\visual studio 2013\Projects\OperatorZaman\OperatorZaman\obj\Debug\OperatorZaman.Properties.Resources.resources
+c:\users\oğuz\documents\visual studio 2013\Projects\OperatorZaman\OperatorZaman\obj\Debug\OperatorZaman.csproj.GenerateResource.Cache
+c:\users\oğuz\documents\visual studio 2013\Projects\OperatorZaman\OperatorZaman\obj\Debug\OperatorZaman.exe
+c:\users\oğuz\documents\visual studio 2013\Projects\OperatorZaman\OperatorZaman\obj\Debug\OperatorZaman.pdb
+C:\Users\Yamans\Desktop\Visual Studio C#\Yapısal Programlama\Operator Kullanıcıdan Zaman Alma\OperatorZaman\bin\Debug\OperatorZaman.exe.config
+C:\Users\Yamans\Desktop\Visual Studio C#\Yapısal Programlama\Operator Kullanıcıdan Zaman Alma\OperatorZaman\bin\Debug\OperatorZaman.exe
+C:\Users\Yamans\Desktop\Visual Studio C#\Yapısal Programlama\Operator Kullanıcıdan Zaman Alma\OperatorZaman\bin\Debug\OperatorZaman.pdb
+C:\Users\Yamans\Desktop\Visual Studio C#\Yapısal Programlama\Operator Kullanıcıdan Zaman Alma\OperatorZaman\obj\Debug\OperatorZaman.csprojAssemblyReference.cache
+C:\Users\Yamans\Desktop\Visual Studio C#\Yapısal Programlama\Operator Kullanıcıdan Zaman Alma\OperatorZaman\obj\Debug\OperatorZaman.Form1.resources
+C:\Users\Yamans\Desktop\Visual Studio C#\Yapısal Programlama\Operator Kullanıcıdan Zaman Alma\OperatorZaman\obj\Debug\OperatorZaman.Properties.Resources.resources
+C:\Users\Yamans\Desktop\Visual Studio C#\Yapısal Programlama\Operator Kullanıcıdan Zaman Alma\OperatorZaman\obj\Debug\OperatorZaman.csproj.GenerateResource.cache
+C:\Users\Yamans\Desktop\Visual Studio C#\Yapısal Programlama\Operator Kullanıcıdan Zaman Alma\OperatorZaman\obj\Debug\OperatorZaman.csproj.CoreCompileInputs.cache
+C:\Users\Yamans\Desktop\Visual Studio C#\Yapısal Programlama\Operator Kullanıcıdan Zaman Alma\OperatorZaman\obj\Debug\OperatorZaman.exe
+C:\Users\Yamans\Desktop\Visual Studio C#\Yapısal Programlama\Operator Kullanıcıdan Zaman Alma\OperatorZaman\obj\Debug\OperatorZaman.pdb
+C:\Users\Yamans\Desktop\Visual Studio C#\Yapısal Programlama\Operator Kullanıcıdan Zaman Alma+\OperatorZaman\bin\Debug\OperatorZaman.exe.config
+C:\Users\Yamans\Desktop\Visual Studio C#\Yapısal Programlama\Operator Kullanıcıdan Zaman Alma+\OperatorZaman\bin\Debug\OperatorZaman.exe
+C:\Users\Yamans\Desktop\Visual Studio C#\Yapısal Programlama\Operator Kullanıcıdan Zaman Alma+\OperatorZaman\bin\Debug\OperatorZaman.pdb
+C:\Users\Yamans\Desktop\Visual Studio C#\Yapısal Programlama\Operator Kullanıcıdan Zaman Alma+\OperatorZaman\obj\Debug\OperatorZaman.csprojAssemblyReference.cache
+C:\Users\Yamans\Desktop\Visual Studio C#\Yapısal Programlama\Operator Kullanıcıdan Zaman Alma+\OperatorZaman\obj\Debug\OperatorZaman.Form1.resources
+C:\Users\Yamans\Desktop\Visual Studio C#\Yapısal Programlama\Operator Kullanıcıdan Zaman Alma+\OperatorZaman\obj\Debug\OperatorZaman.Properties.Resources.resources
+C:\Users\Yamans\Desktop\Visual Studio C#\Yapısal Programlama\Operator Kullanıcıdan Zaman Alma+\OperatorZaman\obj\Debug\OperatorZaman.csproj.GenerateResource.cache
+C:\Users\Yamans\Desktop\Visual Studio C#\Yapısal Programlama\Operator Kullanıcıdan Zaman Alma+\OperatorZaman\obj\Debug\OperatorZaman.csproj.CoreCompileInputs.cache
+C:\Users\Yamans\Desktop\Visual Studio C#\Yapısal Programlama\Operator Kullanıcıdan Zaman Alma+\OperatorZaman\obj\Debug\OperatorZaman.exe
+C:\Users\Yamans\Desktop\Visual Studio C#\Yapısal Programlama\Operator Kullanıcıdan Zaman Alma+\OperatorZaman\obj\Debug\OperatorZaman.pdb

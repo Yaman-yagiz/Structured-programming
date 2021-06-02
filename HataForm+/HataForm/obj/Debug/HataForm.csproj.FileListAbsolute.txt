@@ -1,0 +1,32 @@
+c:\users\oğuz\documents\visual studio 2013\Projects\HataForm\HataForm\bin\Debug\HataForm.exe.config
+c:\users\oğuz\documents\visual studio 2013\Projects\HataForm\HataForm\bin\Debug\HataForm.exe
+c:\users\oğuz\documents\visual studio 2013\Projects\HataForm\HataForm\bin\Debug\HataForm.pdb
+c:\users\oğuz\documents\visual studio 2013\Projects\HataForm\HataForm\obj\Debug\HataForm.csprojResolveAssemblyReference.cache
+c:\users\oğuz\documents\visual studio 2013\Projects\HataForm\HataForm\obj\Debug\HataForm.Form1.resources
+c:\users\oğuz\documents\visual studio 2013\Projects\HataForm\HataForm\obj\Debug\HataForm.Properties.Resources.resources
+c:\users\oğuz\documents\visual studio 2013\Projects\HataForm\HataForm\obj\Debug\HataForm.csproj.GenerateResource.Cache
+c:\users\oğuz\documents\visual studio 2013\Projects\HataForm\HataForm\obj\Debug\HataForm.exe
+c:\users\oğuz\documents\visual studio 2013\Projects\HataForm\HataForm\obj\Debug\HataForm.pdb
+C:\Users\Oğuz\Desktop\Form\HataForm\HataForm\bin\Debug\HataForm.exe.config
+C:\Users\Oğuz\Desktop\Form\HataForm\HataForm\obj\Debug\HataForm.exe
+C:\Users\Oğuz\Desktop\Form\HataForm\HataForm\obj\Debug\HataForm.pdb
+C:\Users\Yamans\Desktop\Uygulamalar\Form\HataForm\HataForm\bin\Debug\HataForm.exe.config
+C:\Users\Yamans\Desktop\Uygulamalar\Form\HataForm\HataForm\bin\Debug\HataForm.exe
+C:\Users\Yamans\Desktop\Uygulamalar\Form\HataForm\HataForm\bin\Debug\HataForm.pdb
+C:\Users\Yamans\Desktop\Uygulamalar\Form\HataForm\HataForm\obj\Debug\HataForm.csprojAssemblyReference.cache
+C:\Users\Yamans\Desktop\Uygulamalar\Form\HataForm\HataForm\obj\Debug\HataForm.Form1.resources
+C:\Users\Yamans\Desktop\Uygulamalar\Form\HataForm\HataForm\obj\Debug\HataForm.Properties.Resources.resources
+C:\Users\Yamans\Desktop\Uygulamalar\Form\HataForm\HataForm\obj\Debug\HataForm.csproj.GenerateResource.cache
+C:\Users\Yamans\Desktop\Uygulamalar\Form\HataForm\HataForm\obj\Debug\HataForm.csproj.CoreCompileInputs.cache
+C:\Users\Yamans\Desktop\Uygulamalar\Form\HataForm\HataForm\obj\Debug\HataForm.exe
+C:\Users\Yamans\Desktop\Uygulamalar\Form\HataForm\HataForm\obj\Debug\HataForm.pdb
+C:\Users\Yamans\Desktop\Visual Studio C#\Yapısal Programlama\HataForm\HataForm\bin\Debug\HataForm.exe.config
+C:\Users\Yamans\Desktop\Visual Studio C#\Yapısal Programlama\HataForm\HataForm\bin\Debug\HataForm.exe
+C:\Users\Yamans\Desktop\Visual Studio C#\Yapısal Programlama\HataForm\HataForm\bin\Debug\HataForm.pdb
+C:\Users\Yamans\Desktop\Visual Studio C#\Yapısal Programlama\HataForm\HataForm\obj\Debug\HataForm.csprojAssemblyReference.cache
+C:\Users\Yamans\Desktop\Visual Studio C#\Yapısal Programlama\HataForm\HataForm\obj\Debug\HataForm.Form1.resources
+C:\Users\Yamans\Desktop\Visual Studio C#\Yapısal Programlama\HataForm\HataForm\obj\Debug\HataForm.Properties.Resources.resources
+C:\Users\Yamans\Desktop\Visual Studio C#\Yapısal Programlama\HataForm\HataForm\obj\Debug\HataForm.csproj.GenerateResource.cache
+C:\Users\Yamans\Desktop\Visual Studio C#\Yapısal Programlama\HataForm\HataForm\obj\Debug\HataForm.csproj.CoreCompileInputs.cache
+C:\Users\Yamans\Desktop\Visual Studio C#\Yapısal Programlama\HataForm\HataForm\obj\Debug\HataForm.exe
+C:\Users\Yamans\Desktop\Visual Studio C#\Yapısal Programlama\HataForm\HataForm\obj\Debug\HataForm.pdb

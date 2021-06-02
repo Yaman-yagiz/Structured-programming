@@ -1,0 +1,10 @@
+C:\Users\Yamans\Desktop\Visual Studio C#\Yapısal Programlama\String Operasyonları\bin\Debug\String Operasyonları.exe.config
+C:\Users\Yamans\Desktop\Visual Studio C#\Yapısal Programlama\String Operasyonları\bin\Debug\String Operasyonları.exe
+C:\Users\Yamans\Desktop\Visual Studio C#\Yapısal Programlama\String Operasyonları\bin\Debug\String Operasyonları.pdb
+C:\Users\Yamans\Desktop\Visual Studio C#\Yapısal Programlama\String Operasyonları\obj\Debug\String Operasyonları.csprojAssemblyReference.cache
+C:\Users\Yamans\Desktop\Visual Studio C#\Yapısal Programlama\String Operasyonları\obj\Debug\String_Operasyonları.Form1.resources
+C:\Users\Yamans\Desktop\Visual Studio C#\Yapısal Programlama\String Operasyonları\obj\Debug\String_Operasyonları.Properties.Resources.resources
+C:\Users\Yamans\Desktop\Visual Studio C#\Yapısal Programlama\String Operasyonları\obj\Debug\String Operasyonları.csproj.GenerateResource.cache
+C:\Users\Yamans\Desktop\Visual Studio C#\Yapısal Programlama\String Operasyonları\obj\Debug\String Operasyonları.csproj.CoreCompileInputs.cache
+C:\Users\Yamans\Desktop\Visual Studio C#\Yapısal Programlama\String Operasyonları\obj\Debug\String Operasyonları.exe
+C:\Users\Yamans\Desktop\Visual Studio C#\Yapısal Programlama\String Operasyonları\obj\Debug\String Operasyonları.pdb

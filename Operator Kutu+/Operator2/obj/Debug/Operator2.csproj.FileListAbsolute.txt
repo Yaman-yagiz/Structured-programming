@@ -1,0 +1,39 @@
+c:\users\oğuz\documents\visual studio 2013\Projects\Operator2\Operator2\bin\Debug\Operator2.exe.config
+c:\users\oğuz\documents\visual studio 2013\Projects\Operator2\Operator2\bin\Debug\Operator2.exe
+c:\users\oğuz\documents\visual studio 2013\Projects\Operator2\Operator2\bin\Debug\Operator2.pdb
+c:\users\oğuz\documents\visual studio 2013\Projects\Operator2\Operator2\obj\Debug\Operator2.csprojResolveAssemblyReference.cache
+c:\users\oğuz\documents\visual studio 2013\Projects\Operator2\Operator2\obj\Debug\Operator2.Form1.resources
+c:\users\oğuz\documents\visual studio 2013\Projects\Operator2\Operator2\obj\Debug\Operator2.Properties.Resources.resources
+c:\users\oğuz\documents\visual studio 2013\Projects\Operator2\Operator2\obj\Debug\Operator2.csproj.GenerateResource.Cache
+c:\users\oğuz\documents\visual studio 2013\Projects\Operator2\Operator2\obj\Debug\Operator2.exe
+c:\users\oğuz\documents\visual studio 2013\Projects\Operator2\Operator2\obj\Debug\Operator2.pdb
+C:\Users\Yamans\Desktop\Uygulamalar\Form\Operator2\Operator2\bin\Debug\Operator2.exe.config
+C:\Users\Yamans\Desktop\Uygulamalar\Form\Operator2\Operator2\bin\Debug\Operator2.exe
+C:\Users\Yamans\Desktop\Uygulamalar\Form\Operator2\Operator2\bin\Debug\Operator2.pdb
+C:\Users\Yamans\Desktop\Uygulamalar\Form\Operator2\Operator2\obj\Debug\Operator2.csprojAssemblyReference.cache
+C:\Users\Yamans\Desktop\Uygulamalar\Form\Operator2\Operator2\obj\Debug\Operator2.Form1.resources
+C:\Users\Yamans\Desktop\Uygulamalar\Form\Operator2\Operator2\obj\Debug\Operator2.Properties.Resources.resources
+C:\Users\Yamans\Desktop\Uygulamalar\Form\Operator2\Operator2\obj\Debug\Operator2.csproj.GenerateResource.cache
+C:\Users\Yamans\Desktop\Uygulamalar\Form\Operator2\Operator2\obj\Debug\Operator2.csproj.CoreCompileInputs.cache
+C:\Users\Yamans\Desktop\Uygulamalar\Form\Operator2\Operator2\obj\Debug\Operator2.exe
+C:\Users\Yamans\Desktop\Uygulamalar\Form\Operator2\Operator2\obj\Debug\Operator2.pdb
+C:\Users\Yamans\Desktop\Visual Studio C#\Yapısal Programlama\Operator Kutu\Operator2\bin\Debug\Operator2.exe.config
+C:\Users\Yamans\Desktop\Visual Studio C#\Yapısal Programlama\Operator Kutu\Operator2\bin\Debug\Operator2.exe
+C:\Users\Yamans\Desktop\Visual Studio C#\Yapısal Programlama\Operator Kutu\Operator2\bin\Debug\Operator2.pdb
+C:\Users\Yamans\Desktop\Visual Studio C#\Yapısal Programlama\Operator Kutu\Operator2\obj\Debug\Operator2.csprojAssemblyReference.cache
+C:\Users\Yamans\Desktop\Visual Studio C#\Yapısal Programlama\Operator Kutu\Operator2\obj\Debug\Operator2.Form1.resources
+C:\Users\Yamans\Desktop\Visual Studio C#\Yapısal Programlama\Operator Kutu\Operator2\obj\Debug\Operator2.Properties.Resources.resources
+C:\Users\Yamans\Desktop\Visual Studio C#\Yapısal Programlama\Operator Kutu\Operator2\obj\Debug\Operator2.csproj.GenerateResource.cache
+C:\Users\Yamans\Desktop\Visual Studio C#\Yapısal Programlama\Operator Kutu\Operator2\obj\Debug\Operator2.csproj.CoreCompileInputs.cache
+C:\Users\Yamans\Desktop\Visual Studio C#\Yapısal Programlama\Operator Kutu\Operator2\obj\Debug\Operator2.exe
+C:\Users\Yamans\Desktop\Visual Studio C#\Yapısal Programlama\Operator Kutu\Operator2\obj\Debug\Operator2.pdb
+C:\Users\Yamans\Desktop\Visual Studio C#\Yapısal Programlama\Operator Kutu+\Operator2\bin\Debug\Operator2.exe.config
+C:\Users\Yamans\Desktop\Visual Studio C#\Yapısal Programlama\Operator Kutu+\Operator2\bin\Debug\Operator2.exe
+C:\Users\Yamans\Desktop\Visual Studio C#\Yapısal Programlama\Operator Kutu+\Operator2\bin\Debug\Operator2.pdb
+C:\Users\Yamans\Desktop\Visual Studio C#\Yapısal Programlama\Operator Kutu+\Operator2\obj\Debug\Operator2.csprojAssemblyReference.cache
+C:\Users\Yamans\Desktop\Visual Studio C#\Yapısal Programlama\Operator Kutu+\Operator2\obj\Debug\Operator2.Form1.resources
+C:\Users\Yamans\Desktop\Visual Studio C#\Yapısal Programlama\Operator Kutu+\Operator2\obj\Debug\Operator2.Properties.Resources.resources
+C:\Users\Yamans\Desktop\Visual Studio C#\Yapısal Programlama\Operator Kutu+\Operator2\obj\Debug\Operator2.csproj.GenerateResource.cache
+C:\Users\Yamans\Desktop\Visual Studio C#\Yapısal Programlama\Operator Kutu+\Operator2\obj\Debug\Operator2.csproj.CoreCompileInputs.cache
+C:\Users\Yamans\Desktop\Visual Studio C#\Yapısal Programlama\Operator Kutu+\Operator2\obj\Debug\Operator2.exe
+C:\Users\Yamans\Desktop\Visual Studio C#\Yapısal Programlama\Operator Kutu+\Operator2\obj\Debug\Operator2.pdb

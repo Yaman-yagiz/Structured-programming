@@ -1,0 +1,30 @@
+C:\Users\ndonmez\source\repos\YapisalHafta7\YapisalHafta7\bin\Debug\YapisalHafta7.exe.config
+C:\Users\ndonmez\source\repos\YapisalHafta7\YapisalHafta7\bin\Debug\YapisalHafta7.exe
+C:\Users\ndonmez\source\repos\YapisalHafta7\YapisalHafta7\bin\Debug\YapisalHafta7.pdb
+C:\Users\ndonmez\source\repos\YapisalHafta7\YapisalHafta7\obj\Debug\YapisalHafta7.csprojAssemblyReference.cache
+C:\Users\ndonmez\source\repos\YapisalHafta7\YapisalHafta7\obj\Debug\YapisalHafta7.Form1.resources
+C:\Users\ndonmez\source\repos\YapisalHafta7\YapisalHafta7\obj\Debug\YapisalHafta7.Properties.Resources.resources
+C:\Users\ndonmez\source\repos\YapisalHafta7\YapisalHafta7\obj\Debug\YapisalHafta7.csproj.GenerateResource.cache
+C:\Users\ndonmez\source\repos\YapisalHafta7\YapisalHafta7\obj\Debug\YapisalHafta7.csproj.CoreCompileInputs.cache
+C:\Users\ndonmez\source\repos\YapisalHafta7\YapisalHafta7\obj\Debug\YapisalHafta7.exe
+C:\Users\ndonmez\source\repos\YapisalHafta7\YapisalHafta7\obj\Debug\YapisalHafta7.pdb
+C:\Users\Yamans\Downloads\Compressed\Yapisal-Programlama-1-7-hafta-ve-uygulama\YapisalHafta7\YapisalHafta7\bin\Debug\YapisalHafta7.exe.config
+C:\Users\Yamans\Downloads\Compressed\Yapisal-Programlama-1-7-hafta-ve-uygulama\YapisalHafta7\YapisalHafta7\bin\Debug\YapisalHafta7.exe
+C:\Users\Yamans\Downloads\Compressed\Yapisal-Programlama-1-7-hafta-ve-uygulama\YapisalHafta7\YapisalHafta7\bin\Debug\YapisalHafta7.pdb
+C:\Users\Yamans\Downloads\Compressed\Yapisal-Programlama-1-7-hafta-ve-uygulama\YapisalHafta7\YapisalHafta7\obj\Debug\YapisalHafta7.csprojAssemblyReference.cache
+C:\Users\Yamans\Downloads\Compressed\Yapisal-Programlama-1-7-hafta-ve-uygulama\YapisalHafta7\YapisalHafta7\obj\Debug\YapisalHafta7.Form1.resources
+C:\Users\Yamans\Downloads\Compressed\Yapisal-Programlama-1-7-hafta-ve-uygulama\YapisalHafta7\YapisalHafta7\obj\Debug\YapisalHafta7.Properties.Resources.resources
+C:\Users\Yamans\Downloads\Compressed\Yapisal-Programlama-1-7-hafta-ve-uygulama\YapisalHafta7\YapisalHafta7\obj\Debug\YapisalHafta7.csproj.GenerateResource.cache
+C:\Users\Yamans\Downloads\Compressed\Yapisal-Programlama-1-7-hafta-ve-uygulama\YapisalHafta7\YapisalHafta7\obj\Debug\YapisalHafta7.csproj.CoreCompileInputs.cache
+C:\Users\Yamans\Downloads\Compressed\Yapisal-Programlama-1-7-hafta-ve-uygulama\YapisalHafta7\YapisalHafta7\obj\Debug\YapisalHafta7.exe
+C:\Users\Yamans\Downloads\Compressed\Yapisal-Programlama-1-7-hafta-ve-uygulama\YapisalHafta7\YapisalHafta7\obj\Debug\YapisalHafta7.pdb
+C:\Users\Yamans\Desktop\Visual Studio C#\Yapısal Programlama\Dosya İşlemleri\YapisalHafta7\bin\Debug\YapisalHafta7.exe.config
+C:\Users\Yamans\Desktop\Visual Studio C#\Yapısal Programlama\Dosya İşlemleri\YapisalHafta7\bin\Debug\YapisalHafta7.exe
+C:\Users\Yamans\Desktop\Visual Studio C#\Yapısal Programlama\Dosya İşlemleri\YapisalHafta7\bin\Debug\YapisalHafta7.pdb
+C:\Users\Yamans\Desktop\Visual Studio C#\Yapısal Programlama\Dosya İşlemleri\YapisalHafta7\obj\Debug\YapisalHafta7.csprojAssemblyReference.cache
+C:\Users\Yamans\Desktop\Visual Studio C#\Yapısal Programlama\Dosya İşlemleri\YapisalHafta7\obj\Debug\YapisalHafta7.Form1.resources
+C:\Users\Yamans\Desktop\Visual Studio C#\Yapısal Programlama\Dosya İşlemleri\YapisalHafta7\obj\Debug\YapisalHafta7.Properties.Resources.resources
+C:\Users\Yamans\Desktop\Visual Studio C#\Yapısal Programlama\Dosya İşlemleri\YapisalHafta7\obj\Debug\YapisalHafta7.csproj.GenerateResource.cache
+C:\Users\Yamans\Desktop\Visual Studio C#\Yapısal Programlama\Dosya İşlemleri\YapisalHafta7\obj\Debug\YapisalHafta7.csproj.CoreCompileInputs.cache
+C:\Users\Yamans\Desktop\Visual Studio C#\Yapısal Programlama\Dosya İşlemleri\YapisalHafta7\obj\Debug\YapisalHafta7.exe
+C:\Users\Yamans\Desktop\Visual Studio C#\Yapısal Programlama\Dosya İşlemleri\YapisalHafta7\obj\Debug\YapisalHafta7.pdb
